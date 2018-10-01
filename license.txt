@@ -1,1 +1,2 @@
 this is an example for stage and workplace
+this is an example for push
